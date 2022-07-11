@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-./ans/*
+ans/*
 
 # Compiled Object files
 *.slo
